@@ -1,1 +1,1 @@
-This is register blade page  s
+This is register blade page
